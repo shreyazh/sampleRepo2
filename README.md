@@ -1,1 +1,1 @@
-# sampleRepo2
+# Image Compressor
